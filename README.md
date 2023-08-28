@@ -26,7 +26,13 @@ For an algorithmic description of the *Stacks* 2 software, please check the 2019
 
 For information on the download, installation, and documentation of the software, please visit the *Stacks* [website](https://catchenlab.life.illinois.edu/stacks/).
 
+## Repository for the exercise
+
+A copy of this document and the associated data can be found in <https://github.com/arcolon14/congen-23>.
+
 ## Preparing the environment
+
+**NOTE:** the directory hierarchy in the commands below referes to the ConGen2023 server.
 
 Make a directory for the Stacks assignment.
 
